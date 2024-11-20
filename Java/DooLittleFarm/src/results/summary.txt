@@ -1,0 +1,6 @@
+Summary Statistics:
+
+Total number of completed sales: 14
+Total number of chicks sold: 2750
+Average price of each chick sold: 3.99
+Gross Sales Total: 11114.00
