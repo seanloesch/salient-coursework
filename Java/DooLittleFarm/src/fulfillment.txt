@@ -1,0 +1,50 @@
+S, 225, 3.31, 1
+O, Zenith Distributors, 100, 3
+O, Pretty Chick Foods, 300, 2
+O, Quick Cook Foods Inc., 100, 0
+S, 75, 4.26, 0 
+S, 225, 4.14, 0 
+O, Williams Brothers Foods, 50, 3
+O, Best Food Farms, 200, 3
+S, 225, 3.27, 3 
+O, Calihan Consolidated Foods, 200, 1
+S, 75, 3.20, 0 
+O, Quick Cook Foods Inc., 200, 3
+O, International Farms, 200, 0
+O, Jones Farms Inc., 350, 3
+O, Quick Cook Foods Inc., 400, 2
+O, Pretty Chick Foods, 50, 3
+S, 75, 2.55, 1 
+S, 225, 4.96, 0 
+S, 75, 2.61, 0 
+S, 225, 4.83, 2 
+O, International Farms, 250, 1
+O, Calihan Consolidated Foods, 100, 2
+O, PepperJet Consolidated Foods, 250, 1
+S, 225, 3.53, 2 
+S, 225, 3.27, 3 
+S, 225, 4.54, 0 
+O, Quick Cook Foods Inc., 300, 2
+O, International Farms, 350, 3
+O, Best Food Farms, 200, 2
+O, Calihan Consolidated Foods, 450, 2
+O, Abbot Brown Suppliers, 350, 0
+O, Best Food Farms, 300, 1
+O, Southern Foods Inc., 250, 1
+S, 225, 4.47, 0 
+O, Quick Cook Foods Inc., 150, 3
+O, Zenith Distributors, 350, 1
+O, PepperJet Consolidated Foods, 50, 0
+O, Pretty Chick Foods, 400, 2
+O, Best Food Farms, 200, 2
+S, 75, 4.36, 0 
+O, PepperJet Consolidated Foods, 50, 0
+O, Southern Foods Inc., 50, 3
+O, Jones Farms Inc., 400, 3
+O, Southern Foods Inc., 300, 0
+O, Quick Cook Foods Inc., 450, 2
+O, Williams Brothers Foods, 150, 1
+O, Zenith Distributors, 50, 0
+S, 150, 3.99, 3 
+S, 225, 3.01, 1 
+S, 150, 3.67, 1 
