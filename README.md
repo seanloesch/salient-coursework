@@ -22,5 +22,5 @@ work because it contained proprietary course material.
 ## Note on SQL
 On top of taking the course on its own, I served as a Teaching Assistant for the
 Database Systems (CS 260) course under Dr. Vanamala for a semester, where I
-guided students, graded assignments and tests, and occasionally gave lectures or
+guided students, graded assignments and tests, and occasionally gave lectures and
 provided supplementary instruction.
