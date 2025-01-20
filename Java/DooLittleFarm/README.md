@@ -8,7 +8,7 @@ This program accepts a fulfillment document for a fake company named DooLittle
 farms (which facilitates the distribution of baby chickens, or chicks), and
 processes its `order`s as soon as possible with the chicks afforded to them by
 various `shipment`s. It prioritizes satisfying the oldest orders with the oldest
-shipments through the a system of custom-written stacks and queues.
+shipments through a system of custom-written stacks and queues.
 
 The fulfillment document, [src/fulfillment.txt](src/fulfillment.txt), is
 organized in this format per each column (delimited by commas):
